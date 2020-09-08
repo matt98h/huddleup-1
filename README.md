@@ -22,7 +22,7 @@ Try it out here: [HuddleUp](https://vast-inlet-67112.herokuapp.com/)
 This application is using the [MIT license](https://choosealicense.com/licenses/mit/).
 
 ## Contributors
-This app was created by [Patrick](https://github.com/pj-brown), [Emilee](https://github.com/emileereiter), [Ryan](https://github.com/Rjbaird) and [Patrick](https://github.com/pj-brown)
+This app was created by [Patrick](https://github.com/pj-brown), [Emilee](https://github.com/emileereiter), [Ryan](https://github.com/Rjbaird) and [Matt](https://github.com/matt98h)
 
 ## Future Development
 * SMS messages and alerts for events (like practices or games)
